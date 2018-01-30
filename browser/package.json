@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "shadow-cljs": "^2.0.116"
+    "shadow-cljs": "^2.0.147"
   },
   "dependencies": {
     "@atlaskit/editor-core": "^60.14.12",
